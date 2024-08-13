@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+King+Anjana+MD+Created+By+Dasun Max..&heart;++;Self-taught+Back-Created+By,;Dasun Max+King Anjana+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1138a68a47b3b0d7f7818.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ![Aaaaand many more](res/readme/context.gif)
