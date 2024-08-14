@@ -2,7 +2,7 @@
 <h1 align="center"><b>𝗞𝗜𝗡𝗚 𝗔𝗡𝗝𝗔𝗡𝗔 𝙈𝘿 ✅𝗩1.0</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+King+Anjana+MD+Created+By+Dasun Max..&heart;++;Self-taught+Back-Created+By,;Dasun Max+King Anjana+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href=[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Am+King+ANJANA+mD;Second+line+of+text)](https://git.io/typing-svg)..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1138a68a47b3b0d7f7818.jpg" alt="01" border="0" /></a>     
