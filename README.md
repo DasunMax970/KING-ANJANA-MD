@@ -24,12 +24,12 @@
  ## .1 Star ✨ repo up there ☝️
  
 # 
-<a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/><
 
- 
 
 # 
-[![Deploy on heroku](https://dashboard.heroku.com/new?template=https://github.com/anjanasir/KING-ANJANA-MD)](https://qr-hazel-alpha.vercel.app/heroku)
+[![Deploy on heroku]https://www.herokucdn.com/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/heroku)
+
 
 
 
