@@ -26,7 +26,7 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+<a href=https://www.prabath-md-official-web.com/main.html
 
 - Session ID must start with **ANJANA~** and is 15 characters in length.
 </details>
