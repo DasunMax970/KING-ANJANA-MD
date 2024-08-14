@@ -2,7 +2,8 @@
 <h1 align="center"><b>𝗞𝗜𝗡𝗚 𝗔𝗡𝗝𝗔𝗡𝗔 𝙈𝘿 ✅𝗩1.0</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href=[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Am+King+ANJANA+mD;Second+line+of+text)](https://git.io/typing-svg)..<3"></a>
+  <a href= [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ANJANA+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1138a68a47b3b0d7f7818.jpg" alt="01" border="0" /></a>     
@@ -21,14 +22,16 @@
 
  ## DEPLOYMENT STEPS
 
- ## .1 Star ✨ repo up there ☝️
- 
-# 
-<a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/><
+ ### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
 
+<details>
+<summary>GET YOUR SESSION_ID</summary>
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
-# 
-[![Deploy on heroku]https://www.herokucdn.com/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/heroku)
+- Session ID must start with **ANJANA~** and is 15 characters in length.
+</details>
+
+**OR**
 
 
 
