@@ -24,27 +24,13 @@
  ## .1 Star ✨ repo up there ☝️
  
 # 
-<a href="https://github.com/DasunMax970/KING-ANJANA-MD fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
  
-# 
-<a href="https://render-session-scanner-by-https://github.com/DasunMax970/KING-ANJANA-MD"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # 
+[![Deploy on heroku](https://dashboard.heroku.com/new?template=https://github.com/anjanasir/KING-ANJANA-MD)](https://qr-hazel-alpha.vercel.app/heroku)
 
-<a href="https://github.com/DasunMax970/KING-ANJANA-MD/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-# 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/heroku)
-
-<br>
-
- # 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
-
-<br>
-
-# 
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
