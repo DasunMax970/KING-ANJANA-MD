@@ -13,7 +13,7 @@
  ## Join my channel for updates and get free cc
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029ValIDQ6FCCob9meD643x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -24,27 +24,19 @@
  ## .1 Star ✨ repo up there ☝️
  
 # 
-<a href="https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/dasummax970/KING ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
  
 # 
 <a href="https://pair-web-public.koyeb.app/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # 
 
-<a href="https://github.com/kingibrahimtech/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/dasunmax970/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-# 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/heroku)
-
-<br>
-
- # 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
+#
 
 <br>
-
-# 
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+<p align=""><a href="https//repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.ioploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
