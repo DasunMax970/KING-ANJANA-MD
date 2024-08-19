@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+King+Anjana+MD+Created+By+Dasun Max..&heart;++;Self-taught+Back-Created+By,;Dasun+Max+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1138a68a47b3b0d7f7818.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ![Aaaaand many more](res/readme/context.gif)
@@ -24,19 +24,18 @@
  ## .1 Star ✨ repo up there ☝️
  
 # 
-<a href="https://github.com/dasummax970/KING ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
  
 # 
 <a href="https://pair-web-public.koyeb.app/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # 
 
-<a href="https://github.com/dasunmax970/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Dasunmax970/KING-ANJANA-MD"
 #
 
 <br>
-<p align=""><a href="https//repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.ioploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+<p align=""><a href="https//repl.it/github/ibrahimaitech/KING-ANJANA-MD"> <img src="https://img.shields.ioploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
