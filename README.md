@@ -27,7 +27,7 @@
 <a href="https://github.com/DasunMax970/KING-ANJANA-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
  
 # 
-<a href="https://anjana-md-db7dbfd2119b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://dronix-md-pair.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 # 
 
@@ -40,7 +40,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## How To Deploy Black Panther
+ ## How To Deploy 𝗔𝗡𝗝𝗔𝗡𝗔 𝗠𝗗
  
 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 
